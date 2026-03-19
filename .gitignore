@@ -1,0 +1,17 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+
+# Virtual environments (非常重要！不要上传你的环境)
+venv/
+ENV/
+env/
+
+# PyCharm 配置文件 (可选，通常建议忽略)
+.idea/
+
+# 操作系统文件
+.DS_Store
+Thumbs.db
+
+files/
