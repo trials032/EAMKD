@@ -8,8 +8,8 @@ The project is currently under active development. Core modules and supplementar
 ## 📦 Pre-trained Models
 You can now access our models trained on the **HX** and **LH** datasets via Hugging Face:
 
-* **EAMKD-TinyBERT-HX**: [Access on Hugging Face](https://huggingface.co/HFTrails/EAMKD-TinyBERT-HX)
-* **EAMKD-TinyBERT-LH**: [Access on Hugging Face](https://huggingface.co/HFTrails/EAMKD-TinyBERT-LH)
+* **Distilled-HX**: [Access on Hugging Face](https://huggingface.co/HFTrails/Distilled-HX)
+* **Distilled-LH**: [Access on Hugging Face](https://huggingface.co/HFTrails/Distilled-HX)
 
 ---
 *If you have any questions or suggestions, feel free to open an issue or reach out.*
