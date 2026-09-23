@@ -9,13 +9,9 @@ The project is currently under active development. Core modules and supplementar
 ## 📊 Dataset Availability
 The datasets used in the corresponding studies are publicly available through the following repositories:
 
-HateXplain: A Benchmark Dataset for Explainable Hate Speech Detection
+The **HateXplain** dataset is available at: https://github.com/hate-alert/HateXplain
 
-The HateXplain dataset is available at: https://github.com/hate-alert/HateXplain
-
-Latent Hatred: A Benchmark for Understanding Implicit Hate Speech
-
-The Latent Hatred dataset is available at: https://github.com/SALT-NLP/implicit-hate
+The **Latent Hatred** dataset is available at: https://github.com/SALT-NLP/implicit-hate
 
 ## 📦 Pre-trained Models
 You can now access our models trained on the **HX** and **LH** datasets via Hugging Face:
