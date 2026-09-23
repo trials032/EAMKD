@@ -6,9 +6,6 @@ from adapters import LoRAConfig, SeqBnConfig
 from calflops import calculate_flops
 from transformers import AutoTokenizer, AutoModelForSequenceClassification, set_seed
 
-set_seed(seed=3470)
-os.environ['CUDA_VISIBLE_DEVICES'] = "5"
-
 
 def IT():
     text = "a " * 128
