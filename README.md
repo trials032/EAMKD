@@ -13,7 +13,7 @@ The **HateXplain** dataset is available at: https://github.com/hate-alert/HateXp
 
 The **Latent Hatred** dataset is available at: https://github.com/SALT-NLP/implicit-hate
 
-After downloading the datasets, please place the corresponding files in the file/dataset directory.
+After downloading the datasets, please place the corresponding files in the `file/dataset` directory.
 
 ## 📦 Pre-trained Models
 You can now access our models trained on the **HX** and **LH** datasets via Hugging Face:
