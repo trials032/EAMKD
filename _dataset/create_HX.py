@@ -5,7 +5,7 @@ import pandas as pd
 from datasets import Dataset, DatasetDict
 from create_dataset.utils import save_dataset
 
-# HateXplain: A Benchmark Dataset for Explainable Hate Speech Detection:
+# HateXplain: A Benchmark Dataset for Explainable Hate Speech Detection
 
 
 with open('../files/original_dataset/HX/post_id_divisions.json', 'r', encoding='utf-8') as file:

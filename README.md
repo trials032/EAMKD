@@ -5,11 +5,18 @@ This repository contains the source code for the EAMKD project.
 ## 🚀 Status: Work in Progress
 The project is currently under active development. Core modules and supplementary files will be updated continuously. **Stay tuned!**
 
+
+## 📊 Dataset Availability
+The datasets used in the corresponding studies are publicly available through the following repositories:
+
+HateXplain: A Benchmark Dataset for Explainable Hate Speech Detection
+The HateXplain dataset is available at: https://github.com/hate-alert/HateXplain
+Latent Hatred: A Benchmark for Understanding Implicit Hate Speech
+The Latent Hatred dataset is available at: https://github.com/SALT-NLP/implicit-hate
+
 ## 📦 Pre-trained Models
 You can now access our models trained on the **HX** and **LH** datasets via Hugging Face:
 
 * **Distilled-HX**: [Access on Hugging Face](https://huggingface.co/HFTrails/Distilled-HX)
-* **Distilled-LH**: [Access on Hugging Face](https://huggingface.co/HFTrails/Distilled)
+* **Distilled-LH**: [Access on Hugging Face](https://huggingface.co/HFTrails/Distilled-Model)
 
----
-*If you have any questions or suggestions, feel free to open an issue or reach out.*
